@@ -1,0 +1,678 @@
+# c1a1w1d
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_0.tga
+
+# c1a1_w1b
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_1.tga
+
+# -2lab3_flr1b
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_2.tga
+
+# generic028
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_3.tga
+
+# lab1_w6a
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_4.tga
+
+# black
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_5.tga
+
+# nwbarrel
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_6.tga
+
+# trrm_pan1
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_7.tga
+
+# c3a2b_reac2e4
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_8.tga
+
+# drkmtlt_ceil01b
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_9.tga
+
+# +0~generic86r
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_10.tga
+
+# c3a1_gear2
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_11.tga
+
+# +0~drkmtls2
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_12.tga
+
+# out_tnt1c
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_13.tga
+
+# basetrim02
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_14.tga
+
+# trrm_pan4
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_15.tga
+
+# fifties_dsk5a
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_16.tga
+
+# fifties_cmp3c
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_17.tga
+
+# lab1_comp3e
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_18.tga
+
+# generic015u
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_19.tga
+
+# lab1_stair2b
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_20.tga
+
+# +alab1_w6
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_21.tga
+
+# c3a2a_telred1b
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_22.tga
+
+# lab1_stair1b
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_23.tga
+
+# drkmtlt_bord11
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_24.tga
+
+# crete3_flr04
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_25.tga
+
+# +alab1_w6b
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_26.tga
+
+# tnnl_flr4
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_27.tga
+
+# glassblue1
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_28.tga
+
+# c1a1_dr3
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_29.tga
+
+# trrm_pan6
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_30.tga
+
+# c1a1w1k
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_31.tga
+
+# lab1_panel1d
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_32.tga
+
+# c1a1_dr3b
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_33.tga
+
+# c1a1dooredge
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_34.tga
+
+# c3a2a_w1
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_35.tga
+
+# flatbed_hlite2
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_36.tga
+
+# +a~fifties_lgt2
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_37.tga
+
+# babtech_dr1d
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_38.tga
+
+# c1a1_gad4
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_39.tga
+
+# flatbed_lite2
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_40.tga
+
+# c1a1a_w4
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_41.tga
+
+# c1a1w1j
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_42.tga
+
+# c1a1_w1
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_43.tga
+
+# lab1_flr10
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_44.tga
+
+# ~light5f
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_45.tga
+
+# ~light3f
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_46.tga
+
+# +0~light6a
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_47.tga
+
+# lab5_c2c
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_48.tga
+
+# fifties_cmp3b
+newmtl material_49
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_49.tga
+
+# c1a1a_w3a
+newmtl material_50
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_50.tga
+
+# tnnl_flr1a
+newmtl material_51
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_51.tga
+
+# babtech_bordl9
+newmtl material_52
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_52.tga
+
+# c1a1_flr2b
+newmtl material_53
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_53.tga
+
+# c1a0_labflre
+newmtl material_54
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_54.tga
+
+# c1a1w1c
+newmtl material_55
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_55.tga
+
+# sign50
+newmtl material_56
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_56.tga
+
+# +0~generic86b
+newmtl material_57
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_57.tga
+
+# lab1_comp3d
+newmtl material_58
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_58.tga
+
+# +a~light1
+newmtl material_59
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_59.tga
+
+# lab1_comp3c
+newmtl material_60
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_60.tga
+
+# lab1_comp10f
+newmtl material_61
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_61.tga
+
+# ~light3c
+newmtl material_62
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_62.tga
+
+# lab1_comp7
+newmtl material_63
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_63.tga
+
+# lab5_c2b
+newmtl material_64
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_64.tga
+
+# prefab_pot1
+newmtl material_65
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_65.tga
+
+# c2a4_brd2a
+newmtl material_66
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_66.tga
+
+# +0~light1
+newmtl material_67
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_67.tga
+
+# c2a4_brd2b
+newmtl material_68
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_68.tga
+
+# c1a1_gad4a
+newmtl material_69
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_69.tga
+
+# generic031b
+newmtl material_70
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_70.tga
+
+# c1a1w1l
+newmtl material_71
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_71.tga
+
+# +a~light4a
+newmtl material_72
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_72.tga
+
+# +a~light3a
+newmtl material_73
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_73.tga
+
+# c1a1w1m
+newmtl material_74
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_74.tga
+
+# +0~light4a
+newmtl material_75
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_75.tga
+
+# -0genpipe1
+newmtl material_76
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_76.tga
+
+# c1a1a_w3c
+newmtl material_77
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_77.tga
+
+# ~lab1_comp8b
+newmtl material_78
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_78.tga
+
+# +0~lab1_cmp2
+newmtl material_79
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_79.tga
+
+# c1a1a_w3b
+newmtl material_80
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_80.tga
+
+# +0lab1_w6
+newmtl material_81
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_81.tga
+
+# c1a1a_w4a
+newmtl material_82
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_82.tga
+
+# c1a1_tnk1
+newmtl material_83
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_83.tga
+
+# stripes2
+newmtl material_84
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_84.tga
+
+# lab1_gad1
+newmtl material_85
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_85.tga
+
+# ca1x_c2b
+newmtl material_86
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_86.tga
+
+# c3a2b_reac
+newmtl material_87
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_87.tga
+
+# generic015r
+newmtl material_88
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_88.tga
+
+# generic015p
+newmtl material_89
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_89.tga
+
+# generic015v3
+newmtl material_90
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_90.tga
+
+# {rail2
+newmtl material_91
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_91.tga
+
+# {grate2
+newmtl material_92
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_92.tga
+
+# +0~generic86
+newmtl material_93
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_93.tga
+
+# fade2
+newmtl material_94
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_94.tga
+
+# sign51
+newmtl material_95
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_95.tga
+
+# +aelev_up
+newmtl material_96
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_96.tga
+
+# drkmtlt_bord13
+newmtl material_97
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_97.tga
+
+# fiftsfile2
+newmtl material_98
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_98.tga
+
+# c2a4c2
+newmtl material_99
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_99.tga
+
+# +0~light5a
+newmtl material_100
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_100.tga
+
+# +ageneric_113
+newmtl material_101
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_101.tga
+
+# c1a1_trim2
+newmtl material_102
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_102.tga
+
+# c1a1_gad3
+newmtl material_103
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_103.tga
+
+# c2a4_w1a
+newmtl material_104
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_104.tga
+
+# +aelev_down
+newmtl material_105
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_105.tga
+
+# babtech_dr1e
+newmtl material_106
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_106.tga
+
+# +0~fifties_lgt2
+newmtl material_107
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_107.tga
+
+# generic015v
+newmtl material_108
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_108.tga
+
+# +0lab1_cmpm2
+newmtl material_109
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_109.tga
+
+# -0fifties_c
+newmtl material_110
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_110.tga
+
+# +0~fifties_cau
+newmtl material_111
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_111.tga
+
+# {ladder2
+newmtl material_112
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd map4_material_112.tga
+
